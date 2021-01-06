@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=lmjben)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mengsixing)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
-**lmjben/lmjben** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**mengsixing/mengsixing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
