@@ -4,6 +4,8 @@
 
 I'm a front-end developer.
 
-- 🔭 I’m currently writing article in https://mengsixing.github.io
+- 🔭 I’m currently writing article on my [blog](https://mengsixing.github.io)
+- 🌱 I’m currently learning Javascript
 - 💬 WeChat: `mengsixing_`
-- 👯 Visitors: ![](https://visitor-badge.glitch.me/badge?page_id=mengsixing.mengsixing)
+
+![](https://visitor-badge.glitch.me/badge?page_id=mengsixing.mengsixing)
