@@ -1,7 +1,6 @@
-![![](https://img.shields.io/badge/知乎-@孟思行-blueviolet)](https://www.zhihu.com/people/mengsx)    
-![![](https://img.shields.io/badge/Segmentfault-@孟思行-yellowgreen)](https://segmentfault.com/u/mengsixing)
-![![](https://img.shields.io/badge/掘金-@孟思行-blue)](https://juejin.cn/user/1187128287435517)
-![](https://visitor-badge.glitch.me/badge?page_id=mengsixing.mengsixing)
+[![知乎](https://img.shields.io/badge/知乎-@孟思行-blueviolet)](https://www.zhihu.com/people/mengsx)
+[![Segmentfault](https://img.shields.io/badge/Segmentfault-@孟思行-yellowgreen)](https://segmentfault.com/u/mengsixing)
+[![掘金](https://img.shields.io/badge/掘金-@孟思行-blue)](https://juejin.cn/user/1187128287435517)
 
 I'm a front-end developer. 👋
 
